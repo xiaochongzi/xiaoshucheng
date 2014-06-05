@@ -4,4 +4,13 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+   <servlet>
+        <servlet-name>dispatch</servlet-name>
+        <servlet-class>com.kusora.noveler.endpoint.Dispatcher</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>dispatch</servlet-name>
+        <url-pattern>/query</url-pattern>
+    </servlet-mapping>
 </web-app>

@@ -38,7 +38,17 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>13.0.1</version>
+			<version>17.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.kusora.noveler</groupId>
+			<artifactId>novel_storage</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.kusora.noveler</groupId>
+			<artifactId>novel_spider</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	<build>
