@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<!-- this configuration will not be used because I will use annnotation and reflection to do the mapping -->
+<config>
+<sites>
+<site>
+<key>http://www.bookso.net/</key>
+<parser>com.kusora.noveler.spider.bookso</parser>
+</site>
+</sites>
+</config>

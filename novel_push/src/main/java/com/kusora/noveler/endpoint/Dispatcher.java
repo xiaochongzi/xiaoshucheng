@@ -9,7 +9,7 @@ import javax.servlet.*;
 public class Dispatcher extends HttpServlet {
 
     /**
-	 * 
+	 * will do the storage and spider init in the servlet init method
 	 */
 	private static final long serialVersionUID = -8227633266001977196L;
 
