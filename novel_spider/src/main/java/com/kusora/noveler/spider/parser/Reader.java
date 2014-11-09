@@ -8,6 +8,4 @@ public interface Reader {
 	public Map<String, Map<String, String>> searchNovel(String keyword); 
 	public Map<String, Map<String, String>> searchAuthor(String keyword);
 	
-	public  
-	
 }

@@ -1,4 +1,4 @@
-package com.kusora.noveler.endpoint;
+package com.kusora.noveler.application;
 
 import java.io.IOException;
 import java.io.PrintWriter;
